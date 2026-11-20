@@ -1,6 +1,9 @@
 # Decisões do time
 
-**Time:** _(nomes e usernames do GitHub)_
+**Time:** 
+Maria Laura Veríssimo (@mlaurasarmentov)
+Matheus Brito (@matheuscbrito)
+Ryan Rodrigues (@RyanRodMat)
 
 Este arquivo acompanha o projeto. Comecem com o que já sabem e atualizem quando
 as decisões mudarem.
