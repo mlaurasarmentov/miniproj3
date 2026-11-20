@@ -2,7 +2,9 @@
 
 **Time:** 
 Maria Laura Veríssimo (@mlaurasarmentov)
+
 Matheus Brito (@matheuscbrito)
+
 Ryan Rodrigues (@RyanRodMat)
 
 Este arquivo acompanha o projeto. Comecem com o que já sabem e atualizem quando
