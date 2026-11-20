@@ -1,14 +1,12 @@
 # Decisões do time
 
 **Time:** 
-Maria Laura Veríssimo (@mlaurasarmentov)
 
-Matheus Brito (@matheuscbrito)
+- Maria Laura Veríssimo (@mlaurasarmentov)
 
-Ryan Rodrigues (@RyanRodMat)
+- Matheus Brito (@matheuscbrito)
 
-Este arquivo acompanha o projeto. Comecem com o que já sabem e atualizem quando
-as decisões mudarem.
+- Ryan Rodrigues (@RyanRodMat)
 
 ## Produto
 
